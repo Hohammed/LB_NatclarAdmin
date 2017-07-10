@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "dsNatclarAdmin": {
+    "host": "172.16.1.220",
+    "port": 1433,
+    "url": "",
+    "database": "NatclarAdmin_DES",
+    "password": "desarrollo",
+    "name": "dsNatclarAdmin",
+    "user": "desarrollo",
+    "connector": "mssql"
+  }
+}
