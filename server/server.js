@@ -20,7 +20,8 @@ app.start = function() {
 
 // Bootstrap the application, configure models, datasources and middleware.
 // Sub-apps like REST API are mounted via boot scripts.
-// Probando el controlm de versiones
+// Probando el controlm de versiones 
+// Otra lirna
 boot(app, __dirname, function(err) {
   if (err) throw err;
 
