@@ -19,14 +19,6 @@ app.start = function() {
 };
 
 // Bootstrap the application, configure models, datasources and middleware.
-// Probando el controlm de versiones 
-// Otra lirna
-// Nureva Bersion del codigo
-//Una nueva version ASASAS
-//DESDE SUBLIMEASASAS
-//des sublimeAS
-//Desde SublomeAS
-//DES DE SUBLIME 
 
 boot(app, __dirname, function(err) {
   if (err) throw err;
